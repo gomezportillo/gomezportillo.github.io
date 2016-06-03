@@ -322,6 +322,22 @@ a.linkedin {
 	background: url(../images/linkedin-small.png) no-repeat 1px;
 }
 
+a.instagram {
+	background: url(../images/instagram-small.png) no-repeat 1px;
+}
+
+a.flickr {
+	background: url(../images/flickr-small.png) no-repeat 1px;
+}
+
+a.blogger {
+	background: url(../images/blogger-small.png) no-repeat 1px;
+}
+
+a.google {
+	background: url(../images/google-small.png) no-repeat 1px;
+}
+
 a.buttons:hover {
 	color: #fff;
 	text-decoration: none;
