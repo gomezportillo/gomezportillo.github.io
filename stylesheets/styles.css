@@ -338,6 +338,14 @@ a.google {
 	background: url(../images/google-small.png) no-repeat 1px;
 }
 
+a.facebook {
+	background: url(../images/facebook-small.png) no-repeat 1px;
+}
+
+a.deviantart {
+	background: url(../images/deviantart-small.png) no-repeat 1px;
+}
+
 a.buttons:hover {
 	color: #fff;
 	text-decoration: none;
